@@ -5,4 +5,4 @@
 [![](https://img.shields.io/github/stars/chuzhixin/vue-admin-beautiful?style=flat-square&label=Stars&logo=github)](https://github.com/chuzhixin/vue-admin-beautiful)
 
 
-[![chuzhixin's github stats](https://github-readme-stats.vercel.app/api?username=chuzhixin)](https://github.com/chuzhixin/vue-admin-beautiful)
+[![chuzhixin's github stats](https://github-readme-stats.vercel.app/api?username=chuzhixin&theme=default&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true)](https://github.com/chuzhixin/vue-admin-beautiful)
